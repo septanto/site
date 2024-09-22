@@ -1,5 +1,3 @@
-import React from 'react';
-
 function Services() {
   return (
     <section id="services" className="bg-gray-100">
