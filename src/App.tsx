@@ -6,7 +6,7 @@ import Specialisation from "./components/Specialisation"
 
 function App() {
   return (
-      <div className="font-inter">
+      <div className="font-inter px-60">
         <Header />
         <main>
           <About />

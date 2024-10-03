@@ -1,6 +1,6 @@
 function Specialisation() {
     return (
-        <section id="specialisation" className="bg-gray-100">
+        <section id="specialisation">
             <div className="container mx-auto p-6">
                 <h2 className="text-3xl font-bold mb-4">Specialisation</h2>
                 <p className="mb-4">Here are some things that I am having more experiences to help you solve your problems</p>
